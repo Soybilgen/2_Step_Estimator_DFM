@@ -8,7 +8,7 @@ Let us define <img src="https://render.githubusercontent.com/render/math?math=x_
 
 <img src="https://render.githubusercontent.com/render/math?math=x_{t} = \Lambda f_{t}+\epsilon_{t}; \quad \epsilon_{t}\sim \mathbb{N}(0,\Sigma_{\epsilon_{t}}),">
 
-where <img src="https://render.githubusercontent.com/render/math?math=\Lambda"> is an <img src="https://render.githubusercontent.com/render/math?math=n \times r"> matrix of factor loadings, <img src="https://render.githubusercontent.com/render/math?math=\epsilon_{t}"> is the idiosyncratic component <img src="https://render.githubusercontent.com/render/math?math=f_{t_m}=(f_{1,t_m},f_{2,t_m},\dots,f_{r,t_m})'"> represents the unobserved common factors following a vector autoregression process (VAR) as follows:
+where <img src="https://render.githubusercontent.com/render/math?math=\Lambda"> is an <img src="https://render.githubusercontent.com/render/math?math=n \times r"> matrix of factor loadings, <img src="https://render.githubusercontent.com/render/math?math=\epsilon_{t}"> is the idiosyncratic component, <img src="https://render.githubusercontent.com/render/math?math=f_{t_m}=(f_{1,t_m},f_{2,t_m},\dots,f_{r,t_m})'"> represents the unobserved common factors following a vector autoregression process (VAR) as follows:
 
 <img src="https://render.githubusercontent.com/render/math?math=f_{t_m} = \sum_{i=1}^{p}A_i f_{t_m-i}+B\eta_{t}; \quad \eta_{t_m}\sim \mathbb{N}(0,I_{q}),">
 
