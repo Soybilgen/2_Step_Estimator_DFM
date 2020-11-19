@@ -47,7 +47,7 @@ q <- 2 # dynamic factors
 r <- 5 # static factors
 p <- 4 # VAR lag
 ```
-Estimate the DFM and Obtain dynamic factors
+Estimate the DFM and obtain dynamic factors
 ```
 result <- FactorExtraction(x, q, r, p)
 Dynamic_Factors <- result$F
@@ -55,4 +55,5 @@ Dynamic_Factors <- result$F
 ### References
 
 Doz, C., Giannone, D., & Reichlin, L. (2011). A two-step estimator for large approximate dynamic factor models based on Kalman filtering. Journal of Econometrics, 164(1), 188-205.
+
 Giannone, D., Reichlin, L., & Small, D. (2008). Nowcasting: The real-time informational content of macroeconomic data. Journal of Monetary Economics, 55(4), 665-676.
