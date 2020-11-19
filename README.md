@@ -1,5 +1,6 @@
-# 2_Step_Estimator_DFM
-These functions estimate a DFM with a 2-step estimator of Doz et. al. (2011).
+# These functions estimate a DFM with a 2-step estimator of Doz et. al. (2011).
+
+## Simple Introduction
 
 Let us define <img src="https://render.githubusercontent.com/render/math?math=x_{t}=(x_{1,t},x_{2,t},\dots,x_{n,t})', t_m=1,2,\dots,T_m"> as our standardized variables. Then, the factor model has the following representation:
 
